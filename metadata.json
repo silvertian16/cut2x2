@@ -1,0 +1,5 @@
+{
+  "name": "QuadSplit - Batch Image Slicer",
+  "description": "A professional tool to batch crop images into four equal quadrants, perfect for splitting Midjourney grids or creating social media tiles. Fast, private, and runs entirely in your browser.",
+  "requestFramePermissions": []
+}
